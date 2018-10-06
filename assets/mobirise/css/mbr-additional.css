@@ -1377,13 +1377,13 @@ body {
   display: none;
 }
 .cid-r5ImbTrk9I .navbar {
-  background: #232323;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-r5ImbTrk9I .navbar-dropdown.bg-color.transparent.opened {
-  background: #232323;
+  background: #ffffff;
 }
 .cid-r5ImbTrk9I a {
   font-style: normal;
@@ -1471,7 +1471,7 @@ body {
   padding-bottom: 0;
 }
 .cid-r5ImbTrk9I .dropdown .dropdown-menu {
-  background: #232323;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1542,7 +1542,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: #f7ed4a;
 }
 .cid-r5ImbTrk9I button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1774,7 +1774,14 @@ body {
   color: #ffffff !important;
 }
 .cid-r5ImtAlkeP {
-  background-color: #232323;
+  background-color: #ffffff;
+}
+.cid-r5ImtAlkeP .mbr-text,
+.cid-r5ImtAlkeP .mbr-section-btn {
+  color: #232323;
+}
+.cid-r5ImtAlkeP H1 {
+  color: #f7ed4a;
 }
 .cid-r5IkRwIOIa {
   padding-top: 45px;
@@ -1977,13 +1984,13 @@ body {
   }
 }
 .cid-r5IlbEB5yY .navbar {
-  background: #232323;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-r5IlbEB5yY .navbar-dropdown.bg-color.transparent.opened {
-  background: #232323;
+  background: #ffffff;
 }
 .cid-r5IlbEB5yY a {
   font-style: normal;
@@ -2071,7 +2078,7 @@ body {
   padding-bottom: 0;
 }
 .cid-r5IlbEB5yY .dropdown .dropdown-menu {
-  background: #232323;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2142,7 +2149,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: #f7ed4a;
 }
 .cid-r5IlbEB5yY button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2374,13 +2381,13 @@ body {
   color: #ffffff !important;
 }
 .cid-r5Io4yIGYY .navbar {
-  background: #232323;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-r5Io4yIGYY .navbar-dropdown.bg-color.transparent.opened {
-  background: #232323;
+  background: #ffffff;
 }
 .cid-r5Io4yIGYY a {
   font-style: normal;
@@ -2468,7 +2475,7 @@ body {
   padding-bottom: 0;
 }
 .cid-r5Io4yIGYY .dropdown .dropdown-menu {
-  background: #232323;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2539,7 +2546,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: #f7ed4a;
 }
 .cid-r5Io4yIGYY button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
