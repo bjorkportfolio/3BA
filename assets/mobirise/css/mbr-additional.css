@@ -3989,6 +3989,7 @@ body {
   background: #cccccc;
   padding-top: 60px;
   padding-bottom: 60px;
+  background: linear-gradient(0deg, #c1c1c1, #cccccc);
 }
 .cid-raluTCB344 .image-block {
   margin: auto;
@@ -4007,9 +4008,10 @@ body {
   }
 }
 .cid-raluTCQmyd {
-  background: #cccccc;
+  background: #c1c1c1;
   padding-top: 60px;
   padding-bottom: 60px;
+  background: linear-gradient(0deg, #767676, #c1c1c1);
 }
 .cid-raluTCQmyd .image-block {
   margin: auto;
