@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Portfolio.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1046,7 +1046,7 @@
       "settings": {
         "meta_descr": "slide van foto's ",
         "title": "Portfolio",
-        "order": 8
+        "order": 1
       },
       "components": [
         {
@@ -2372,7 +2372,7 @@
       "settings": {
         "meta_descr": "Posters water inkt ",
         "title": "Poster",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -2974,7 +2974,7 @@
       "settings": {
         "meta_descr": "Cover Lp Alvin Curran           ",
         "title": "LP",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -3526,7 +3526,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Verzameling",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -3987,7 +3987,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Parissienne",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -4502,7 +4502,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Sympathieke",
@@ -4541,7 +4541,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": true
+                "active": false
               }
             ]
           }
@@ -4552,7 +4552,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Minima Docta",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -5013,7 +5013,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "associatie",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -5591,7 +5591,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Instagramm",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
