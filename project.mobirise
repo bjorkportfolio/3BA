@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "Portfolio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1756,9 +1756,9 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/poster-1.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
+                "active": false,
+                "showButtons": true,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1769,13 +1769,13 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "<a href=\"inkt.html\">Bjork Segers</a>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary-outline\" data-app-placeholder=\"Type Text\" href=\"inkt.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/lp-1.jpg",
                 "active": false,
-                "showButtons": false,
-                "showText": true,
+                "showButtons": true,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1785,14 +1785,14 @@
                 "title": "Video slide",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<a href=\"lpcover.html\">Bjork Segers - LPcover</a>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
+                "text": "",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary-outline\" data-app-placeholder=\"Type Text\" href=\"lpcover.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;&nbsp;</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/verzameling-1.jpg",
                 "active": false,
-                "showButtons": false,
-                "showText": true,
+                "showButtons": true,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1803,13 +1803,13 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "<a href=\"verzameling.html\">Bjork Segers — Verzameling&nbsp;</a>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary-outline\" data-app-placeholder=\"Type Text\" href=\"verzameling.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/associatie-1.jpg",
                 "active": false,
-                "showButtons": false,
-                "showText": true,
+                "showButtons": true,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1820,13 +1820,13 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "<a href=\"page7.html\">Bjork Segers — Associatie&nbsp;</a>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary-outline\" data-app-placeholder=\"Type Text\" href=\"associatie.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/parismatch-3.jpg",
                 "active": false,
-                "showButtons": false,
-                "showText": true,
+                "showButtons": true,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1837,13 +1837,13 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "<a href=\"Parissienne.html\">Bjork Segers — Parissienne</a>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary-outline\" data-app-placeholder=\"Type Text\" href=\"Parissienne.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/minimadocta-1.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
+                "active": true,
+                "showButtons": true,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1854,7 +1854,7 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "<a href=\"page9.html\">Bjork Segers — Minima Docta</a>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary-outline\" data-app-placeholder=\"Type Text\" href=\"MinimaDocta.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;</a>"
               }
             ]
           }
